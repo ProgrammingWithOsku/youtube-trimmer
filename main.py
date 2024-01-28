@@ -1,5 +1,5 @@
-from youtube_downloader import YouTubeVideoDownloader
-from validation import validate_url, validate_time_format
+from src.youtube_downloader import YouTubeVideoDownloader
+from src.validation import validate_url, validate_time_format
 
 
 def get_input(prompt):
